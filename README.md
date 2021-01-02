@@ -1,22 +1,22 @@
-<h1 align="center">Hi 👋, I'm Shubham Gupta</h1>
+<h1 align="center">Hey 👋, It's Trideep</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 - 🔭 I’m currently working on **something cool**
 
-- 🌱 I’m currently learning **react, node.js, express, mongodb**
+- 🌱 I’m currently learning **react, node.js, express, mongodb,swift**
 
-- 👨‍💻 All of my projects are available at [http://shubhamsg.com/portfolio](http://shubhamsg.com/portfolio)
+- 👨‍💻 All of my projects are available at [http://trideepghosh.me/](http://trideepghosh.me/)
 
 - 💬 Ask me about **html, css, javascript, php**
 
-- 📫 How to reach me **@Shubhamsg7**
+- 📫 How to reach me **@3deep0019**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/shubhamsg7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="shubhamsg7" height="30" width="40" /></a>
-<a href="https://fb.com/shubham8028" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="shubham8028" height="30" width="40" /></a>
-<a href="https://instagram.com/shubhamsg_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shubhamsg_" height="30" width="40" /></a>
-<a href="https://www.behance.net/shubhamkumar20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="shubhamkumar20" height="30" width="40" /></a>
+
+<a href="https://www.facebook.com/trideep.ghosh1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="trideep.ghosh1" height="30" width="40" /></a>
+<a href="https://www.instagram.com/3.deep_0019/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="3.deep_0019" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,4 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamsg7&show_icons=true&locale=en&layout=compact" alt="shubhamsg7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamsg7&show_icons=true&locale=en" alt="shubhamsg7" /></p>
-
