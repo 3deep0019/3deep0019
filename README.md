@@ -29,6 +29,8 @@
 - ⚡ Fun fact: **🎢 I once debugged an issue while on a roller coaster!**
 
 ### Open source
+- [Podiom #347](https://github.com/Podiom/Podiom/pull/347) — table-driven tests for the
+  adapter router, pinning guard order and error-wrapping behavior (Go)
 - [career-ops #4615](https://github.com/career-ops-hq/career-ops/pull/4615) — web runs dated
   artifacts in UTC, not the user's local day; fixed and guarded with a regression test (v1.35.0)
 - [warp #344](https://github.com/Ishannaik/warp/pull/344) — accessible name for the NAT/STUN
